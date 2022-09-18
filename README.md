@@ -6,7 +6,7 @@
 
 <br>
 
-Bike Tracker.R
+**Bike Tracker.R**
 * R script that cleans and visualizes data
 
 miles.csv
